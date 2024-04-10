@@ -1,3 +1,9 @@
+>> flutter + firebase 당뇨 관리 모바일 app 제작
+
+# firebase tools 명령어
+firebase deploy  //앱 호스팅
+firebase hosting:disable  //호스팅 종료
+
 # flutter_app
 
 A new Flutter project.
